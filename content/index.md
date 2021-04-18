@@ -12,10 +12,10 @@ featuredLinks:
     - /github/importing-your-projects-to-github/adding-an-existing-project-to-github-using-the-command-line
     - /github/getting-started-with-github/managing-remote-repositories
     - /github/working-with-github-pages
-versions: '*'
+versions: '*
 children:
   - github
-  - admin
+  - administration change software
   - organizations
   - code-security
   - actions
@@ -50,6 +50,6 @@ externalProducts:
     id: codeql
     name: 'CodeQL'
     href: 'https://codeql.github.com/docs'
-    external: true
+    external: false
 ---
 
